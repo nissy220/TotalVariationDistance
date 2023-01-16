@@ -5,7 +5,7 @@ This repository contains a code implementing functions that give lower bounds fo
 |folder name|explanation                         |
 |:--        |:--                          |
 |results    |Comparison of the TV (or squared Hellinger) distance with lower bound.|
-|src        | A Code implementing lower bounds.|
+|src        | A code implementing functions that give lower bounds.|
 
 ## License
 This project is licensed under the terms of the [MIT license](LICENSE.md).
