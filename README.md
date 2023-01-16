@@ -4,7 +4,7 @@ This repository contains a code implementing functions that give lower bounds fo
 ## File structure
 |folder name|explanation                         |
 |:--        |:--                          |
-|results    |Scatter plots of distances and lower bounds.|
+|results    |Comparison of the TV (or squared Hellinger) distance with lower bound.|
 |src        | A Code implementing lower bounds.|
 
 ## License
