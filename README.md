@@ -1,4 +1,4 @@
-# TotalVariationDistance
+# Tight closed forms of lower bounds for TV and hellinger distances
 This repository contains a code implementing functions that give lower bounds for the total variation(TV) distance [1] and the Hellinger distance [2] between two distributions given means and variances.
 
 ## File structure
