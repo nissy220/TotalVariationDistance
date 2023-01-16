@@ -1,5 +1,5 @@
 # TotalVariationDistance
-This repository contains a code implementing functions that give lower bounds for the total variation distance [1] and the Hellinger distance [2] between two distributions given means and variances.
+This repository contains a code implementing functions that give lower bounds for the total variation(TV) distance [1] and the Hellinger distance [2] between two distributions given means and variances.
 
 ## File structure
 |folder name|explanation                         |
