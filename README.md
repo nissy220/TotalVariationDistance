@@ -6,6 +6,7 @@ This repository contains a code implementing functions that give lower bounds fo
 |:--        |:--                          |
 |results    |Comparison of the TV (or squared Hellinger) distance with lower bound.|
 |src        | A code implementing functions that give lower bounds.|
+|docs        |Summary of tight lower bounds for divergence measures between distributions with given means and variances.|
 
 ## License
 This project is licensed under the terms of the [MIT license](LICENSE.md).
